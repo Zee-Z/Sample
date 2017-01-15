@@ -14,3 +14,6 @@ The courses comprising the Data Science Specialization are:
 * Statistical Inference
 
 * Regression Models
+* Avro
+* Harier
+* Hornet
